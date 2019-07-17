@@ -1,6 +1,6 @@
 FROM continuumio/anaconda3
 
-#RUN pip install jupyter
+RUN pip install lime
 #
 #RUN pip install seaborn
 #
